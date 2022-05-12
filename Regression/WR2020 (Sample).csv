@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,2,16470,Davante Adams,WR,1,GB,MIN,0,0.0,17,0.4146341463414634,24,7300.0,44.6,18.79,,,,,,,,,,0,0,0,0
+1,10,19802,Calvin Ridley,WR,1,ATL,SEA,1,0.05263157894736842,12,0.2307692307692308,15,6100.0,36.9,14.75,,,,,,,,,,0,0,0,0
+2,7,15534,Adam Thielen,WR,1,MIN,GB,0,0.0,8,0.32,11,6700.0,34.0,15.28,,,,,,,,,,0,0,0,0
+3,11,14986,DeAndre Hopkins,WR,1,ARI,SF,0,0.0,16,0.4324324324324325,14,6800.0,32.1,15.72,,,,,,,,,,0,0,0,0

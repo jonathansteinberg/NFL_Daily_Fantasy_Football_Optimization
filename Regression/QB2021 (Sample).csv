@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,PassingAttempts,PassShare,RushingAttempts,RushShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,PassShareMean_Rolling,RushShareMean_Rolling,FantasyPointsMean_Rolling,PassShareMean_Last3,RushShareMean_Last3,FantasyPointsMean_Last3,PassShareMean_Last5,RushShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,0,18890,Patrick Mahomes,QB,1,KC,CLE,36,0.6666666666666666,5,0.2777777777777778,25,8100.0,36.28,27.4,,,,,,,,,,0,0,0,0
+1,1,20889,Kyler Murray,QB,1,ARI,TEN,32,0.5333333333333333,5,0.17857142857142858,28,7600.0,34.56,24.19,,,,,,,,,,0,0,0,0
+2,30,17922,Jared Goff,QB,1,DET,SF,57,0.7307692307692307,3,0.14285714285714285,8,5100.0,32.92,14.95,,,,,,,,,,0,0,0,0
+3,5,4314,Tom Brady,QB,1,TB,DAL,50,0.78125,0,0.0,19,6700.0,32.16,24.82,,,,,,,,,,0,0,0,0

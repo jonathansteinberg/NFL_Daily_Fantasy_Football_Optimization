@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,15,19863,Dallas Goedert,TE,1,PHI,WAS,0,0.0,9,0.21428571428571427,28.0,4100.0,27.1,9.1,,,,,,,,,,0,0,0,0
+1,2,19803,Mark Andrews,TE,1,BAL,CLE,0,0.0,6,0.24,29.0,6000.0,22.8,14.27,,,,,,,,,,0,0,0,0
+2,11,20753,Noah Fant,TE,1,DEN,TEN,0,0.0,6,0.1875,27.0,4200.0,19.1,9.49,,,,,,,,,,0,0,0,0
+3,1,15048,Travis Kelce,TE,1,KC,HOU,0,0.0,6,0.1875,24.0,7000.0,17.0,16.88,,,,,,,,,,0,0,0,0

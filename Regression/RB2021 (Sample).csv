@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,6,18858,Joe Mixon,RB,1,CIN,MIN,29,0.8285714285714286,4,0.15384615384615385,28,6200.0,28.0,16.78,,,,,,,,,,0,0,0,0
+1,0,18877,Christian McCaffrey,RB,1,CAR,NYJ,21,0.9545454545454546,9,0.2727272727272727,16,9500.0,27.7,23.75,,,,,,,,,,0,0,0,0
+2,34,18995,Jamaal Williams,RB,1,DET,SF,9,0.42857142857142855,9,0.16071428571428573,7,4500.0,25.0,8.93,,,,,,,,,,0,0,0,0
+3,22,21684,D'Andre Swift,RB,1,DET,SF,11,0.5238095238095238,11,0.19642857142857145,7,6900.0,24.4,14.0,,,,,,,,,,0,0,0,0

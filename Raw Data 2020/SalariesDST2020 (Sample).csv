@@ -1,0 +1,5 @@
+,Rank,PlayerID,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,DraftKingsSalary,FantasyPointsDraftKings
+0,1,28,Pittsburgh Steelers,PIT,DST,1,NYG,,,3900.0,9.3
+1,1,21,New England Patriots,NE,DST,1,MIA,,,3200.0,9.1
+2,1,37,Buffalo Bills,BUF,DST,1,NYJ,,,3700.0,9.1
+3,1,55,Kansas City Chiefs,KC,DST,1,HOU,,,3000.0,8.9

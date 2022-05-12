@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,PassingAttempts,PassShare,RushingAttempts,RushShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,PassShareMean_Rolling,RushShareMean_Rolling,FantasyPointsMean_Rolling,PassShareMean_Last3,RushShareMean_Last3,FantasyPointsMean_Last3,PassShareMean_Last5,RushShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,3,14536,Russell Wilson,QB,1,SEA,ATL,35,0.6730769230769231,3,0.17647058823529413,25.0,7000.0,34.78,20.33,,,,,,,,,,0,0,0,0
+1,17,2593,Aaron Rodgers,QB,1,GB,MIN,44,0.6027397260273972,1,0.03448275862068965,8.0,6300.0,33.76,17.02,,,,,,,,,,0,0,0,0
+2,7,19801,Josh Allen,QB,1,BUF,NYJ,46,0.71875,14,0.7777777777777778,17.0,6500.0,33.18,19.06,,,,,,,,,,0,0,0,0
+3,5,732,Matt Ryan,QB,1,ATL,SEA,54,0.7397260273972602,1,0.05263157894736842,15.0,6700.0,27.9,19.37,,,,,,,,,,0,0,0,0

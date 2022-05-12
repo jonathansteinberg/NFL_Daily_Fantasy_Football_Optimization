@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,PassingAttempts,PassShare,RushingAttempts,RushShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,PassShareMean_Rolling,RushShareMean_Rolling,FantasyPointsMean_Rolling,PassShareMean_Last3,RushShareMean_Last3,FantasyPointsMean_Last3,PassShareMean_Last5,RushShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,8,19781,Lamar Jackson,QB,1,BAL,MIA,20,0.3448275862068966,3,0.07894736842105263,23,6000.0,36.56,19.32,,,,,,,,,,0,0,0,0
+1,5,18055,Dak Prescott,QB,1,DAL,NYG,32,0.5517241379310345,4,0.15384615384615385,17,5900.0,36.4,19.59,,,,,,,,,,0,0,0,0
+2,0,18857,Deshaun Watson,QB,1,HOU,NO,30,0.6122448979591837,4,0.21052631578947367,31,6800.0,31.72,21.58,,,,,,,,,,0,0,0,0
+3,21,9038,Matthew Stafford,QB,1,DET,ARI,45,0.6081081081081081,3,0.10344827586206896,5,5400.0,31.6,16.87,,,,,,,,,,0,0,0,0

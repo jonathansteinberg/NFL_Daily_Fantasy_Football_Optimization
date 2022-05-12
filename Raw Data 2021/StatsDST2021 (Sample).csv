@@ -1,0 +1,5 @@
+,Rank,PlayerID,Name,Team,Position,Week,Opponent,TacklesForLoss,Sacks,QuarterbackHits,Interceptions,FumblesRecovered,Safeties,DefensiveTouchdowns,SpecialTeamsTouchdowns,PointsAllowedByDefenseSpecialTeams,FantasyPointsPerGameDraftKings,FantasyPointsDraftKings
+0,1,1,Arizona Cardinals,ARI,DST,1,TEN,8,6,9,1,2,0,0,0,13,16,16
+1,1,69,New Orleans Saints,NO,DST,1,GB,2,2,7,2,1,0,0,0,3,15,15
+2,1,28,Pittsburgh Steelers,PIT,DST,1,BUF,5,3,8,0,1,0,0,1,16,14,14
+3,1,93,San Francisco 49ers,SF,DST,1,DET,9,3,9,1,0,0,1,0,33,10,10

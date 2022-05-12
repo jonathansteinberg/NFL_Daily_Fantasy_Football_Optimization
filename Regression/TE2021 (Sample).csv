@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,2,16964,Darren Waller,TE,1,LV,BAL,0,0.0,19,0.36538461538461536,10,7500.0,29.5,16.43,,,,,,,,,,0,0,0,0
+1,13,10974,Rob Gronkowski,TE,1,TB,DAL,0,0.0,8,0.17391304347826084,16,3900.0,29.0,8.79,,,,,,,,,,0,0,0,0
+2,5,20805,T.J. Hockenson,TE,1,DET,SF,0,0.0,10,0.17857142857142858,1,4900.0,25.7,12.61,,,,,,,,,,0,0,0,0
+3,0,15048,Travis Kelce,TE,1,KC,CLE,0,0.0,7,0.21212121212121213,28,8300.0,25.6,20.12,,,,,,,,,,0,0,0,0

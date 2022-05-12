@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,5,18912,Evan Engram,TE,1,NYG,DAL,0,0.0,14,0.3111111111111111,22.0,4800.0,31.6,11.92,,,,,,,,,,0,0,0,0
+1,22,20805,T.J. Hockenson,TE,1,DET,ARI,0,0.0,9,0.2195121951219512,4.0,3100.0,28.1,6.58,,,,,,,,,,0,0,0,0
+2,9,19803,Mark Andrews,TE,1,BAL,MIA,0,0.0,8,0.32,21.0,3000.0,27.8,8.41,,,,,,,,,,0,0,0,0
+3,11,7175,Delanie Walker,TE,1,TEN,CLE,0,0.0,6,0.25,26.0,3500.0,22.5,9.06,,,,,,,,,,0,0,0,0

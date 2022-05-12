@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,19,16765,Amari Cooper,WR,1,DAL,TB,0,0.0,16,0.2807017543859649,19.0,6000.0,41.9,15.25,,,,,,,,,,0,0,0,0
+1,0,18082,Tyreek Hill,WR,1,KC,CLE,1,0.05555555555555555,15,0.4545454545454545,26.0,8200.0,40.1,21.14,,,,,,,,,,0,0,0,0
+2,26,20932,Deebo Samuel,WR,1,SF,DET,0,0.0,12,0.5217391304347826,30.0,5900.0,35.9,14.0,,,,,,,,,,0,0,0,0
+3,11,15534,Adam Thielen,WR,1,MIN,CIN,0,0.0,10,0.2127659574468085,17.0,7000.0,30.2,15.48,,,,,,,,,,0,0,0,0

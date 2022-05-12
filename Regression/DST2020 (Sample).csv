@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,FantasyPointsFor_MeanRolling,FantasyPointsFor_MeanLast3,FantasyPointsFor_MeanLast5,FantasyPointsAgainst_MeanRolling,FantasyPointsAgainst_MeanLast3,FantasyPointsAgainst_MeanLast5,QBInjured,RBInjured,WRInjured,TEInjured
+0,0,69,New Orleans Saints,DST,1,NO,TB,2400.0,17,7.0,,,,,,,0,0,0,0
+1,1,36,Baltimore Ravens,DST,1,BAL,CLE,3100.0,15,8.7,,,,,,,0,0,0,0
+2,2,97,Washington Commanders,DST,1,WAS,PHI,2000.0,15,5.3,,,,,,,0,0,0,0
+3,3,21,New England Patriots,DST,1,NE,MIA,3200.0,11,9.1,,,,,,,0,0,0,0

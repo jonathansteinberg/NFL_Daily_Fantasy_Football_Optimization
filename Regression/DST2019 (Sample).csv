@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,FantasyPointsFor_MeanRolling,FantasyPointsFor_MeanLast3,FantasyPointsFor_MeanLast5,FantasyPointsAgainst_MeanRolling,FantasyPointsAgainst_MeanLast3,FantasyPointsAgainst_MeanLast5,QBInjured,RBInjured,WRInjured,TEInjured
+0,0,93,San Francisco 49ers,DST,1,SF,TB,2200.0,27,6.0,,,,,,,0,0,0,0
+1,1,34,Tennessee Titans,DST,1,TEN,CLE,2600.0,23,5.9,,,,,,,0,0,0,0
+2,2,82,New York Jets,DST,1,NYJ,BUF,3100.0,18,7.7,,,,,,,0,0,0,0
+3,3,67,Minnesota Vikings,DST,1,MIN,ATL,3300.0,16,6.4,,,,,,,0,0,0,0

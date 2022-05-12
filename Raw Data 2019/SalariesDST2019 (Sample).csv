@@ -1,0 +1,5 @@
+,Rank,PlayerID,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,DraftKingsSalary,FantasyPointsDraftKings
+0,1,26,Philadelphia Eagles,PHI,DST,1,WAS,,,3600.0,9.4
+1,1,36,Baltimore Ravens,BAL,DST,1,MIA,,,3800.0,9.1
+2,1,49,Denver Broncos,DEN,DST,1,LV,,,3600.0,8.9
+3,1,38,Chicago Bears,CHI,DST,1,GB,,,3700.0,8.8

@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,FantasyPointsFor_MeanRolling,FantasyPointsFor_MeanLast3,FantasyPointsFor_MeanLast5,FantasyPointsAgainst_MeanRolling,FantasyPointsAgainst_MeanLast3,FantasyPointsAgainst_MeanLast5,QBInjured,RBInjured,WRInjured,TEInjured
+0,0,1,Arizona Cardinals,DST,1,ARI,TEN,2100.0,16,6.7,,,,,,,0,0,0,0
+1,1,69,New Orleans Saints,DST,1,NO,GB,2200.0,15,6.0,,,,,,,0,0,0,0
+2,2,28,Pittsburgh Steelers,DST,1,PIT,BUF,2800.0,14,7.3,,,,,,,0,0,0,0
+3,3,93,San Francisco 49ers,DST,1,SF,DET,4200.0,10,9.5,,,,,,,0,0,0,0

@@ -1,0 +1,5 @@
+,Unnamed: 0,PlayerID,Name,Position,Week,Team,Opponent,Attempts,RushShare,Targets,TargetShare,OPR,Salary,FantasyPoints,FantasyPoints_DraftKingsProjection,RushShareMean_Rolling,TargetShareMean_Rolling,FantasyPointsMean_Rolling,RushShareMean_Last3,TargetShareMean_Last3,FantasyPointsMean_Last3,RushShareMean_Last5,TargetShareMean_Last5,FantasyPointsMean_Last5,QBInjured,RBInjured,WRInjured,TEInjured
+0,0,18877,Christian McCaffrey,RB,1,CAR,LAR,19,0.95,11,0.2972972972972973,15.0,8800.0,45.9,21.8,,,,,,,,,,0,0,0,0
+1,15,19562,Austin Ekeler,RB,1,LAC,IND,12,0.6,7,0.21212121212121213,10.0,5500.0,39.4,15.83,,,,,,,,,,0,0,0,0
+2,4,18872,Dalvin Cook,RB,1,MIN,ATL,21,0.65625,2,0.2222222222222222,27.0,6000.0,29.0,18.17,,,,,,,,,,0,0,0,0
+3,20,17959,Derrick Henry,RB,1,TEN,CLE,19,0.8260869565217391,2,0.08333333333333333,23.0,5900.0,28.9,11.96,,,,,,,,,,0,0,0,0
